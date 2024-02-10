@@ -13,4 +13,4 @@ Media aluno ("Python")
 # 4 Se a media for sete ou menor ou igual a nove, "Voce esta aprovado"
 # Se a media for igual a 10, parabens voce conseguiu aprovação com 100% de aprovação
 
-# (As entradas devem ser do tipo int)
+# (As entradas devem ser do tipo float)
