@@ -3,7 +3,7 @@ b2 = float(input('Informe a media do segundo bimestre: '))
 b3 = float(input('Informe a media do terceiro bimestre: '))
 b4 = float(input('Informe a media do quarto bimestre: '))
 
-nome = str(input("Qual o seu nome? "))
+nome = str(input("Nome do Aluno?:  "))
 
 media = (b1 + b2 + b3 + b4) / 4
 
