@@ -13,4 +13,3 @@ if num == numero:
     print('Voce acertou: {}'.format(num))
 else:
     print('Voce Perdeu!: ')
-
